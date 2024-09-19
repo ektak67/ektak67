@@ -2,9 +2,7 @@
 
 <h2><i>  About me </i></h2>
 
-- I am a sophomore at IIIT Gwalior pursuing Integrated Post Graduation in Information Technology.
-
-- I am a web developer currently refining my skills in **React.js**.
+- I am in my final year at IIIT Gwalior, pursuing integrated postgraduate studies in information technology.
 
 - I am currently learning and focussing on **ML and DSA**.
 
@@ -30,3 +28,5 @@
 <a href="[linkedin](https://www.linkedin.com/in/ekta67/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejal-e-681a56209" height="30" width="40" /></a>
 <a href="https://medium.com/@tejal_1303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tejal_1303" height="30" width="40" /></a>
 </p> -->
+
+
