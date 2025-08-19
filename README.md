@@ -2,7 +2,7 @@
 
 <h2><i>  About me </i></h2>
 
-- I am in my final year at IIIT Gwalior, pursuing integrated postgraduate studies in information technology.
+- I am a graduate from IIIT Gwalior with an integrated postgraduate degree in Information Technology
 
 - I am currently learning and focussing on **ML and DSA**.
 
